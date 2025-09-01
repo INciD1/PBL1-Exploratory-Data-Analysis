@@ -27,4 +27,4 @@ The dashboard provides interactive charts and insights into accident statistics 
 1. Place `accident2021.csv` and `accident2022.csv` in the project directory.  
 2. Run the dashboard:
    ```bash
-   python 6630611033_road_accident_2021-2022_dasboard.py
+   python road_accident_2021-2022_dasboard.py
